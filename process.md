@@ -12,7 +12,11 @@ Mapped to:
 **Issue → Project → Pull Request → Repo → Wiki → Blog (Zola)**
 
 ---
-
+# flow 
+branch protection on main
+	•	PR template + issue templates
+	•	Actions CI (even simple: format/lint/test/build)
+	•	squash-merge enabled
 ## 1) Issues — thinking & progress
 
 Use for: ideas, plans, decisions, blockers, updates.  
