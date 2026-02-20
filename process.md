@@ -17,6 +17,15 @@ branch protection on main
 - PR template + issue templates
 - Actions CI (even simple: format/lint/test/build)
 - squash-merge enabled
+
+#Here's the intended user workflow 
+zYou open an issue
+→ move it in the project board
+→ create a branch
+→ open a pull request
+→ CI proves it works
+→ merge automatically updates stable
+→ docs updated explain the feature
 ## 1) Issues — thinking & progress
 
 Use for: ideas, plans, decisions, blockers, updates.  
